@@ -1,3 +1,90 @@
-mashery.com
+git.to/api12f
+git.to/prizes
 
-mongod database
+=== Sendgrid ===
+DePasquale: Linode + Sendgrid
+SENDGRID HELP = @SwiftAlphaOne
+pennapps@snailgrid.com contest
+
+=== GS ===
+Java Collections
+Replacement for List Set Map
+github.com/goldmansachs/gs-collections
+
+=== Mailchimp ===
+Mandrill
+
+=== Mashery ===
+@amit
+API Management company???WTF???WTFISTHAT??????? (Lol)
+SO META I CAN'T EVEN HANDLE IT!
+Lots and LOTS and lots and lots of APIs.
+ESPN - Headlines, Athletes, Team
+TechCrunch - Company Product Person
+Whit.ly - Facebook Lookups (compatibility)
+CrunchBase - Tech Companies/People/Investors
+Klout - NO.
+= JamBox
+= Nerd Merit Badge
+= Beer Key + USB DRIVE
+
+=== 10Gen ===
+MongoDB
+<3<3<3<3<3<3<3
+= Backpack
+
+=== Ikanow ===
+pennapps.ikanow.com/hack
+Data Science
+= $500 AMAZON in $50 increments
+
+=== Dropbox ===
+Client Sync, Mobile Cache, Web Remote, API Arbitrary
+= 10 GIGS if pennapps-2012@dropbox.com
+
+=== Microsoft ===
+41 days until Windows 8!
+bit.ly/AppIn30
+@LindsayInPhilly
+
+=== Mozilla ===
+Matt Basta@irc.mozilla.com
+Mozilla persona - Like Facebook Connect ish
+X-Tags - "Future UI toolkit for building HTML5 apps" - So much browser compatibility - HOLY SHIT THIS IS USEFUL OH MY GOD YES
+Firefox OS
+
+=== Cloudmine ===
+Bad-ass data mining
+
+=== Facebook ===
+= (Best use of social data)
+
+=== Zappos ===
+Yeah.
+
+=== GraphMuse ===
+Yep, Facebook
+
+=== NYT ===
+Lots of freakin' articles
+The NYT index (198~)
+Jennifer and Goat Albie (Amputees) - Database tags
+Manually summarizes articles since 1913.
+NYT API
+
+=== Tumblr ===
+WHOO!
+
+=== Filepicker ===
+1 LINE OF CODE
+URL = API (reads, writes, MAGIC)
+http://jsfiddle.net/filepicker/5K4DU/
+= NEXUS 7
+= sweet Trophy
+
+=== Twitter ===
+Twitter
+
+=== Twilio ===
+Sweet
+
